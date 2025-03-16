@@ -54,8 +54,21 @@
 
 ### 📊 GitHub Stats:
 
-![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajayvagh&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajayvagh&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajayvagh&theme=react&hide_border=true&background=0D1117&stroke=FF6F61&ring=00C4B4" height="150" alt="Streak" />
+  <br>
+  <a href="https://github.com/ajayvagh/github-readme-stats">
+    <img alt="Ajay's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ajayvagh&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/ajayvagh/github-readme-stats">
+    <img alt="Ajay's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayvagh&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
+  <br/>
+  <a href="https://github.com/ajayvagh">
+    <img alt="Ajay's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ajayvagh&theme=react-dark" />
+  </a>
+</div>
+
 
 ---
 
